@@ -1,0 +1,15 @@
+/* javascript code to print hello world */
+ 
+<html>
+<head>
+<title>HELLO WORLD</title>
+</head>
+<body>
+<script type="text/javascript">
+document.write("HELLO WORLD");
+</script>
+<body>
+</html> 
+
+/* output
+HELLO WORLD  */
